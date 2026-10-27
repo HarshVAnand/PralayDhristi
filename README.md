@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PralaayDhristi (ATMOS) · AI Flood Prediction Frontend
 
 PralaayDhristi is a modern, high-precision flood intelligence & early-warning web frontend built with **React.js**, **Tailwind CSS**, and **Recharts**.
@@ -101,3 +102,6 @@ When your FastAPI, Flask, or Node.js server receives the POST payload from `runN
 - **Change Basins, Sensors, or Hydrograph Data**: Edit [`src/data/mockPredictionData.js`](./src/data/mockPredictionData.js)
 - **Customize Theme & Glow Colors**: Edit [`src/index.css`](./src/index.css)
 
+=======
+# PralayDhristi
+>>>>>>> 5ace61a0b4c0ce91e886f0c690d609a1b0886917
